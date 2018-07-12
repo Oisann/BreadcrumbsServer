@@ -1,0 +1,8 @@
+{
+    "name": "oisann-breadcrumbs-server",
+    "version": "1.0.0",
+    "dependencies": {
+        "@google-cloud/datastore": "1.4.1"
+    }
+  }
+  
